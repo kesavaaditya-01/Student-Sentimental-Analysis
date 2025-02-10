@@ -2,6 +2,10 @@
 
 A Student Sentiment Analysis Dashboard crafted using Tableau and preprocessed with Tableau Prep Builder. This visualization dives deep into the key factors shaping students' academic journeys and mental well-being. 📊✨
 
+# Link for Visualizations
+
+## https://public.tableau.com/app/profile/kesavaaditya.vemula/viz/StudentSentimentalAnalysis/StudentSentimentalAnalysis
+
 ## 🔍 Key Metrics Explored
 
 Student Satisfaction 😌:
