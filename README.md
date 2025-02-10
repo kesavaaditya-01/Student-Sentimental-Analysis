@@ -8,10 +8,12 @@ Sleep Duration 💤 – Analyzes sleep patterns and their impact on academic per
 Study Hours 📚 – Examines how study time correlates with student outcomes.
 Academic Pressure 📈 – Identifies stress points from workload and expectations.
 Financial Stress 💸 – Evaluates how financial concerns affect focus and overall morale.
+
 🎯 Key Takeaways
 Balancing study hours and sleep is essential for both academic success and mental health.
 Academic pressure and financial stress significantly influence student satisfaction levels.
 Leveraging data insights can guide institutions in developing strategies to enhance student well-being.
+
 🔧 Tools & Techniques Used
 Tableau Prep Builder – For data preprocessing and cleaning.
 Tableau – For creating interactive and insightful visualizations.
